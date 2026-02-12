@@ -1,0 +1,45 @@
+{
+  "category": "GHOST_HAUNTING",
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/wewe-gombel",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "wewe-gombel",
+    "name": "Wewe Gombel",
+    "aliases": [
+      {
+        "name": "Wewegombel"
+      },
+      {
+        "name": "Wadon Gombel"
+      }
+    ],
+    "category": "GHOST_HAUNTING",
+    "subcategory": "Child protector ghost",
+    "tags": [
+      "ghost",
+      "haunting",
+      "spirit",
+      "supernatural"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "Ghost of a woman who kidnaps neglected children to care for them, protecting them from abusive parents",
+      "full": "Ghost of a woman who kidnaps neglected children to care for them, protecting them from abusive parents"
+    }
+  }
+}
