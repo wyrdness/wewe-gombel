@@ -1,9 +1,8 @@
 {
-  "category": "GHOST_HAUNTING",
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/wewe-gombel",
     "maintainers": [
       {
@@ -20,26 +19,108 @@
   "phenomenon": {
     "id": "wewe-gombel",
     "name": "Wewe Gombel",
-    "aliases": [
-      {
-        "name": "Wewegombel"
-      },
-      {
-        "name": "Wadon Gombel"
-      }
-    ],
+    "aliases": [],
     "category": "GHOST_HAUNTING",
     "subcategory": "Child protector ghost",
     "tags": [
-      "ghost",
-      "haunting",
-      "spirit",
-      "supernatural"
+      "folklore",
+      "mythology"
     ],
     "status": "documented",
     "description": {
-      "summary": "Ghost of a woman who kidnaps neglected children to care for them, protecting them from abusive parents",
-      "full": "Ghost of a woman who kidnaps neglected children to care for them, protecting them from abusive parents"
+      "summary": "Ghost of a woman who kidnaps neglected children to care for them, protecting them from abusive parents This phenomenon represents an important part of Javanese folklore and cultural heritage, with documented accounts and traditions spanning generations.",
+      "full": "Ghost of a woman who kidnaps neglected children to care for them, protecting them from abusive parents This phenomenon represents an important part of Javanese folklore and cultural heritage, with documented accounts and traditions spanning generations."
+    },
+    "etymology": {
+      "origin": "| Javanese |",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
-  }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "GHOST_HAUNTING",
+      "type": "Child protector ghost",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "| Javanese |",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "| Javanese |",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }
