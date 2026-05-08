@@ -1,320 +1,129 @@
 # Wewe Gombel
 
-> *"Ancient spirits walk among us"*
+> A Javanese ghost figure — the spirit of a tragically wronged woman — who abducts neglected or mistreated children, caring for them protectively until their parents repent. She is a cautionary figure in Javanese child-rearing tradition, originating from the Bukit Gombel area of Semarang, Central Java.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Category](https://img.shields.io/badge/category-GHOST HAUNTING-purple)]()
-[![Status](https://img.shields.io/badge/status-documented-brightgreen)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-08-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-documented-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `wewe-gombel` |
 | **Category** | GHOST_HAUNTING |
-| **Classification** | Child protector ghost |
-| **Primary Region** | Java, Indonesia |
-| **Cultural Origin** | Javanese |
-| **Status** | Documented |
+| **Subcategory** | Child-protecting spirit |
+| **First recorded** | 1500-01-01 |
+| **Primary range** | Central Java, Indonesia |
+| **Status** | documented |
 
 ---
-
 ## Overview
 
-Ghost of a woman who kidnaps neglected children to care for them, protecting them from abusive parents
-
-This phenomenon represents an important part of Javanese folklore and cultural heritage, with documented accounts and traditions spanning generations.
+Wewe Gombel is one of the most distinctive supernatural figures in Javanese folklore. The name combines the Javanese wewe (woman, or widow) with Gombel, a scrubby hill area in Semarang, Central Java, Indonesia, where the legend is said to have originated. According to the foundational myth, a woman had been married for years without bearing children. When her husband abandoned her for another woman, she killed him in a rage. Pursued by villagers, she took her own life in despair, and her spirit became Wewe Gombel. Unlike many malevolent ghost figures, Wewe Gombel is morally ambiguous: she specifically targets children who have been mistreated or neglected by their parents, abducting them and caring for them lovingly in her nest within an Arenga pinnata (sugar palm) crown. The children do not fear her and are not harmed. She returns them only when their parents show genuine remorse. This structure makes Wewe Gombel a pedagogical figure: the legend is taught to encourage children to stay home at night and to model attentive parenting. Her physical description traditionally emphasizes elongated, hanging breasts, with modern media adaptations adding vampire-like fangs. Historically, the myth is estimated to have emerged around the 15th–16th centuries, during the period of the decline of the Majapahit Empire and the spread of Islam across Java.
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| Wewegombel | Javanese / Central Java, Indonesia | Compound of wewe (woman/widow) and Gombel (a scrubby hill in Semarang) |
 
-### Primary Name
-- **Wewe Gombel** — Java, Indonesia
+## Etymology
 
-### Alternative Names
-
-| Name | Language/Region | Notes |
-|------|-----------------|-------|
-| Wewegombel | Java, Indonesia | Traditional name |
-| Wadon Gombel | Java, Indonesia | Traditional name |
-
----
-
-## Classification
-
-### Taxonomy
-```
-Category: GHOST_HAUNTING
-├── Type: Child protector ghost
-└── Origin: Javanese
-```
+- **Origin**: Javanese; localized to Bukit Gombel, Semarang, Central Java, Indonesia
+- **Meaning**: Wewe: woman or widow (Javanese). Gombel: a scrubby hill in Semarang. The name literally identifies the spirit as the widow from the Gombel hill.
+- **First use**: Estimated 15th–16th century (pre-colonial Java, decline of Majapahit Empire)
 
 ---
-
-## Characteristics
-
-### Description
-
-Ghost of a woman who kidnaps neglected children to care for them, protecting them from abusive parents
-
-### Cultural Significance
-
-This entity holds significant meaning within Javanese culture and tradition. The phenomenon reflects deep cultural values and ancestral knowledge passed down through generations.
-
----
-
-## Distribution
-
-### Geographic Range
-
-**Primary Region:** Java, Indonesia
-
-The phenomenon is primarily reported in Java, Indonesia, with strongest traditions in Javanese communities.
-
-### Cultural Context
-
-- **Origin Culture:** Javanese
-- **Geographic Focus:** Java, Indonesia
-- **Traditional Knowledge:** Passed through oral tradition
-- **Modern Status:** Still acknowledged in local folklore
-
----
-
-## History
-
-### Origins
-
-The Wewe Gombel originates from Javanese tradition in Java, Indonesia. Stories and accounts have been passed down through generations, maintaining cultural significance.
-
-### Historical Timeline
-
-**Traditional Era (Pre-modern)**
-- Oral traditions establish phenomenon in cultural consciousness
-- Stories serve educational and cautionary purposes
-- Integrated into community belief systems
-
-**Colonial Period**
-- First documentation by outside observers
-- Cultural practices continue despite external pressures
-- Traditions maintained in local communities
-
-**Modern Era (20th-21st Century)**
-- Academic documentation and study
-- Cultural revival and preservation efforts
-- Continued relevance in contemporary society
-
----
-
-## Accounts & Encounters
-
-### Traditional Accounts
-
-The Wewe Gombel features prominently in Javanese folklore, with numerous traditional accounts passed through oral tradition. These stories serve important cultural functions including:
-
-- Moral instruction
-- Cultural identity preservation
-- Explanation of natural phenomena
-- Social cohesion
-
-### Contemporary Reports
-
-Modern accounts continue to emerge from Java, Indonesia, suggesting ongoing cultural relevance and possibly genuine unexplained experiences.
-
----
-
-## Evidence & Documentation
-
-### Folklore Documentation
-
-- Oral traditions collected by anthropologists
-- Written accounts from cultural practitioners
-- Academic studies of Javanese belief systems
-- Comparative folklore analysis
-
-### Cultural Artifacts
-
-- Traditional art depicting the phenomenon
-- Ceremonial objects related to protection or invocation
-- Place names and geographic features
-- Cultural practices and rituals
-
----
-
-## Theories & Interpretations
-
-### Cultural Perspective
-
-From within Javanese tradition, the Wewe Gombel represents:
-- Legitimate spiritual/supernatural reality
-- Important cultural knowledge
-- Connection to ancestral wisdom
-- Part of living tradition
-
-### Academic Analysis
-
-Scholars approach the phenomenon from multiple angles:
-- **Anthropological:** Cultural function and meaning
-- **Folkloric:** Story patterns and transmission
-- **Psychological:** Cognitive and social factors
-- **Historical:** Development and evolution of belief
-
-### Skeptical Viewpoint
-
-Skeptics often attribute accounts to:
-- Cultural conditioning and belief systems
-- Misidentification of natural phenomena
-- Psychological factors including suggestion
-- Social reinforcement of traditional narratives
-
----
-
-## Cultural Impact
-
-### Traditional Role
-
-In Javanese culture, the Wewe Gombel:
-- Serves educational purposes
-- Reinforces cultural values
-- Maintains connection to heritage
-- Provides framework for understanding the world
-
-### Modern Influence
-
-**Academic Interest:**
-- Subject of anthropological study
-- Folklore documentation projects
-- Cultural preservation initiatives
-- Comparative mythology research
-
-**Popular Culture:**
-- Featured in regional tourism
-- Depicted in local art and media
-- Subject of cultural festivals
-- Educational programs
-
-**Cultural Preservation:**
-- Efforts to document traditional knowledge
-- Integration into cultural education
-- Protection of sacred sites and practices
-- Respect for traditional beliefs
-
----
-
-## Research & Investigation
-
-### Academic Study
-
-Scholars from various disciplines have studied the Wewe Gombel phenomenon:
-
-- Anthropologists documenting cultural beliefs
-- Folklorists analyzing narrative structures
-- Historians tracing development of traditions
-- Sociologists examining cultural functions
-
-### Cultural Authorities
-
-Traditional knowledge holders and cultural practitioners maintain the most authoritative understanding of the phenomenon within its original cultural context.
-
-### Ongoing Documentation
-
-Current efforts focus on:
-- Recording oral traditions before they are lost
-- Respectful academic documentation
-- Cultural preservation programs
-- Community-led research initiatives
-
----
-
-## Cultural Sensitivity & Respect
-
-### Important Considerations
-
-When engaging with this phenomenon:
-
-- **Respect Cultural Origins:** Recognize this as living cultural tradition
-- **Avoid Appropriation:** Do not remove from cultural context
-- **Consult Communities:** Seek permission and guidance from cultural authorities
-- **Accurate Representation:** Present information respectfully and accurately
-- **Support Preservation:** Contribute to cultural preservation efforts
-
-### Guidelines for Researchers
-
-- Work collaboratively with communities
-- Obtain proper permissions
-- Share findings with source communities
-- Respect restrictions on sacred knowledge
-- Provide fair compensation and credit
-
----
-
 ## Related Phenomena
 
-### Similar Entities
-
-- [Pontianak](/pontianak) - Southeast Asian vampire ghost
-- [Hantu Raya](/hantu-raya) - Malay demon spirit
-- [La Llorona](/la-llorona) - Weeping woman spirit
-
----
-
-## Sources & Further Reading
-
-See [SOURCES.md](./SOURCES.md) for complete bibliography and references.
-
-### Recommended Starting Points
-
-- Academic studies of Javanese folklore
-- Anthropological surveys of Java, Indonesia
-- Cultural documentation projects
-- Traditional oral histories (where accessible)
+- [Hantu Kopek](../hantu-kopek/) — _similar_: Malay folklore figure with similar elongated-breast description and child-related supernatural role
+- [Rangda](../rangda/) — _similar_: Balinese demon queen, another powerful Indonesian female supernatural figure
+- [Pontianak](../pontianak/) — _similar_: Malay/Indonesian female ghost (spirit of a woman who died in childbirth); shares origin in female trauma and death
+- [Kuntilanak](../kuntilanak/) — _similar_: Indonesian variant of the Pontianak; female ghost of similar traumatic origin
 
 ---
+## Physical Description
 
-## Contribution Guidelines
+- **Morphology**: Female ghost figure of mature appearance. Traditional depictions center on the elongated breasts as the primary physical marker. Modern cinematic adaptations add horror-genre elements (fangs, pale skin) absent from classical Javanese oral tradition.
 
-This documentation is part of the Wyrdness project to preserve and present paranormal and folkloric phenomena respectfully.
+### Features
 
-### How to Contribute
+| Feature | Description | Frequency |
+|---|---|---|
+| Elongated, hanging breasts | Traditional physical marker; her breasts hang down elongatedly, a common depiction across Indonesian folklore for female supernatural beings associated with childbearing and nurture | always |
+| Aged female appearance | Depicted as a mature or elderly woman reflecting her status as a wronged wife rather than a young woman | common |
+| Vampire-like fangs | Added in modern media representations (films, comics); not a feature of traditional folklore descriptions | occasional |
 
-- Submit corrections or additional information
-- Provide cultural context and traditional knowledge (with permission)
-- Share academic sources and references
-- Suggest related phenomena
+## Reported Abilities
 
-### Standards
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Child abduction | Capable of taking children, particularly those who are neglected or abused, removing them to her dwelling in the crown of an Arenga pinnata palm tree | always | folklore |
+| Inducing calm in children | Abducted children reportedly lose their fear and do not cry while in her care; she soothes them despite being a fearful figure to adults | always | folklore |
+| Detection of parental neglect | Folklore holds that she selectively targets children whose parents are neglectful or abusive, suggesting a supernatural moral discernment | always | folklore |
 
-- Cultural sensitivity and respect required
-- Academic rigor expected
-- Proper attribution mandatory
-- Community consultation encouraged
+## Behavior
+
+- **Activity**: nocturnal
+- **Disposition**: variable
+- **Social structure**: solitary
+- **Habitat**: Arenga pinnata (sugar palm) crowns, hillside areas near settlements, forest edges adjacent to villages
+- **Diet**: Not described in traditional sources
 
 ---
+## Distribution
 
+Central Java, Indonesia; the legend is most strongly associated with Semarang and the surrounding Bukit Gombel area, though it is known across Javanese-speaking communities in Central and East Java.
+
+### Hotspots
+
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Bukit Gombel, Semarang | Central Java, Indonesia |  | 15th–16th century (legendary origin period); ongoing in oral tradition |
+
+---
+## Historical Timeline
+
+| Date | Event | Significance |
+|---|---|---|
+| 1500-01-01 | Estimated emergence of the Wewe Gombel legend in Javanese oral tradition, associated with Bukit Gombel, Semarang, during the decline of the Majapahit Empire | Origin period of the legend |
+| 1988-01-01 | Indonesian film Wewe Gombel released, one of the first cinematic treatments of the figure | Transition of the legend to mass-media format |
+| 2012-01-01 | Indonesian film Legenda Wewe Gombel released | Continued modern media engagement with the legend |
+
+---
+## Theories & Explanations
+
+### Skeptical
+
+**Pedagogical social construction** _(Folklorists of Javanese oral tradition)_
+
+The Wewe Gombel legend functions as a deliberate or evolved social tool for controlling children's behavior (staying home at night) and modeling parenting norms (attentive care over neglect). The spirit's moral selectivity — abducting only neglected children — encodes social expectations rather than reflecting a genuine supernatural encounter tradition.
+
+
+## Popular Culture
+
+
+**Film / TV**: Wewe Gombel (1988 Indonesian film); Legenda Wewe Gombel (2012 Indonesian film); HBO Asia Folklore anthology series, episode 'A Mother's Love'
+
+**Other**: Depicted in Indonesian comics; Featured in local Semarang festival cultural representations
+
+---
+## Sources
+
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
+
+
+## How to Report a Sighting
+
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
+
+---
 ## License
 
-- **Data:** CC0-1.0 (Public Domain)
-- **Documentation:** CC-BY-4.0 (Attribution Required)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-## Metadata
-
-```json
-{
-  "id": "wewe-gombel",
-  "name": "Wewe Gombel",
-  "category": "GHOST_HAUNTING",
-  "region": "Java, Indonesia",
-  "culture": "Javanese",
-  "version": "1.0.0",
-  "last_updated": "2026-01-14"
-}
-```
-
----
-
-**Note:** This documentation presents the Wewe Gombel phenomenon respectfully within its cultural context. The information is compiled from various sources and represents both traditional knowledge and academic study. Always approach cultural traditions with respect and sensitivity.
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
